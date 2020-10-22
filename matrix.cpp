@@ -1,6 +1,10 @@
-﻿// ANDRES PENA	
-// 11.5.2018
-// Lab 6
+﻿///////////////////////////////////////////////////////////////
+// Description: This is part 3 of the 3 parts of a matrix lab. 
+//              This part of the project focuses on getting all the 
+//              functionality creating a way to add, multiply 
+//               and also finding the tranpose. This is the final product. 
+//
+//////////////////////////////////////////////////////////////
 
 #include <algorithm> // provides min()
 using namespace std;
